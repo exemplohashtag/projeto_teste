@@ -10,5 +10,4 @@ DADOS_ORIGINAIS = PASTA_DADOS / "diabetes.zip"
 DADOS_TRATADOS = PASTA_DADOS / "diabetes_tratado.parquet"
 
 # coloque abaixo outros caminhos que você julgar necessário
-PASTA_RELATORIOS = PASTA_PROJETO / "relatorios"
-PASTA_IMAGENS = PASTA_RELATORIOS / "imagens"
+PASTA_IMAGENS = PASTA_PROJETO / "imagens"
